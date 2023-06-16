@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="./index.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- <div class="con">
+        <div class="menu">
+            <div class="menu-show menu-show-border">Home</div>
+            <div class="menu-show menu-show-border">About</div>
+            <div class="menu-show menu-show-border">Classes
+                <div class="menu-drop">
+                    <div class="menu-dropdown"> Yoga</div>
+                    <div class="menu-dropdown"> Gym</div>
+                    <div class="menu-dropdown"> Cooking
+
+                        <div class="menu-drop-Cooking">
+                            <div class="menu-dropdown-Cooking"> Bengali Food</div>
+                            <div class="menu-dropdown-Cooking"> Indian Food</div>
+                            <div class="menu-dropdown-Cooking"> Chinese Food</div>
+                            <div class="menu-dropdown-Cooking"> Biriyani</div>
+                        </div>
+
+
+                    </div>
+                    <div class="menu-dropdown"> Driving
+
+                        <div class="menu-drop-Driving">
+                            <div class="menu-dropdown-Driving"> Car</div>
+                            <div class="menu-dropdown-Driving"> Bike</div>
+                            <div class="menu-dropdown-Driving"> Bus</div>
+                            <div class="menu-dropdown-Driving"> Truck</div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="menu-show menu-show-border">Contact
+                <div class="menu-drop">
+                    <div class="menu-dropdown"> Call</div>
+                    <div class="menu-dropdown"> E-Mail</div>
+
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="black-box-cont">
+        <div class="black-box">
+            <div class="black-box-img">
+                <img src="./images/coca-2-removebg-preview.png" alt="image">
+            </div>
+            <div class="black-box-data">
+                <div class="black-box-file-name">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                </div>
+                <div class="black-box-file-link">
+                    <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, tempore.</a>
+                </div>
+
+                <div class="show-in">
+                    <a href="#"> show in folder</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="black-box">
+            <div class="black-box-img">
+                <img src="./images/sprite-removebg-preview.png" alt="image">
+            </div>
+            <div class="black-box-data">
+                <div class="black-box-file-name">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                </div>
+                <div class="black-box-file-link">
+                    <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, tempore.</a>
+                </div>
+
+                <div class="show-in">
+                    <a href="#"> show in folder</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="black-box">
+            <div class="black-box-img">
+                <img src="./images/ok-removebg-preview.png" alt="image">
+            </div>
+            <div class="black-box-data">
+                <div class="black-box-file-name">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                </div>
+                <div class="black-box-file-link">
+                    <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, tempore.</a>
+                </div>
+
+                <div class="show-in">
+                    <a href="#"> show in folder</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="black-box">
+            <div class="black-box-img">
+                <img src="./images/coca-2-removebg-preview.png" alt="image">
+            </div>
+            <div class="black-box-data">
+                <div class="black-box-file-name">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                </div>
+                <div class="black-box-file-link">
+                    <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, tempore.</a>
+                </div>
+
+                <div class="show-in">
+                    <a href="#"> show in folder</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="black-box">
+            <div class="black-box-img">
+                <img src="./images/sprite-removebg-preview.png" alt="image">
+            </div>
+            <div class="black-box-data">
+                <div class="black-box-file-name">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                </div>
+                <div class="black-box-file-link">
+                    <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, tempore.</a>
+                </div>
+
+                <div class="show-in">
+                    <a href="#"> show in folder</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div> -->
+
+    <!-- <div class="product-hover">
+        <div class="coca-sprite">
+            <div class="coca">
+                <div class="product-details">
+                    <div class="product-heading">
+                        <h2>Coca-Cola </h2>
+                    </div>
+                    <div class="product-about">
+                        <p>Lorem ipsum dolor sit amet <br>consectetur adipisicing elit. Maxime, <br> tempore velit. Veniam rem vero <br>commodi qui ullam, maiores odio a. <br> Lorem ipsum dolor sit amet.</p>
+                    </div>
+
+                    <div class="order"><button class="order-now"> <a href="Order Now" target="_blank">Order Now</a></button>
+
+                        <div class="emoji">
+                            <img src="./images/ok-removebg-preview.png" alt="" class="emoji-hover">
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="product-image"><img src="./images/coca-2-removebg-preview.png" alt="">
+
+
+                </div>
+
+            </div>
+            <div class="sprite">
+
+                <div class="product-details">
+
+                    <div class="product-heading">
+                        <h2>Pepsi </h2>
+                    </div>
+                    <div class="product-about">
+                        <p>Lorem ipsum dolor sit amet<br> consectetur adipisicing elit. Maxime, <br>tempore velit. Veniam rem vero <br>commodi qui ullam, maiores odio a.<br> Lorem ipsum dolor sit amet.</p>
+                    </div>
+
+                    <div class="order"><button class="order-now"> <a href="Order Now" target="_blank">Order Now</a></button></div>
+
+
+                </div>
+
+                <div class="product-image"><img src="./images/sprite-removebg-preview.png" alt=""> </div>
+
+
+            </div>
+        </div>
+    </div> -->
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
